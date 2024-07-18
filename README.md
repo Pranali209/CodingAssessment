@@ -1,2 +1,0 @@
-# CodingAssessment
-Coding Assessment 
